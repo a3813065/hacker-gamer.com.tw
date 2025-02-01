@@ -1,0 +1,55 @@
+{
+    "data": {
+        "memberCount": 8401,
+        "memberList": [
+            {
+                "sn": 1739774,
+                "userid": "anslook",
+                "lowerUserid": "anslook",
+                "class": 1,
+                "level": 0,
+                "classTitle": "",
+                "contribute": 20,
+                "contributeMtime": "2024-12-01",
+                "contributeOver30Days": false,
+                "contributeMtimeHumanFormat": "13 \u5929\u524d",
+                "accurateContributeMtime": "2024-12-01 13:45:14",
+                "ctime": "2024-09-26 15:52:23",
+                "nick": "\u5230\u5e95\u522a\u5e7e\u6b21",
+                "avatar": "https:\/\/avatar2.bahamut.com.tw\/avataruserpic\/a\/n\/anslook\/anslook_s.png"
+            },
+            {
+                "sn": 1739747,
+                "userid": "tender9300",
+                "lowerUserid": "tender9300",
+                "class": 1,
+                "level": 0,
+                "classTitle": "",
+                "contribute": 40,
+                "contributeMtime": "2024-12-14",
+                "contributeOver30Days": false,
+                "contributeMtimeHumanFormat": "\u4eca\u5929",
+                "accurateContributeMtime": "2024-12-14 00:22:02",
+                "ctime": "2024-09-26 00:58:37",
+                "nick": "\u9752\u6749",
+                "avatar": "https:\/\/avatar2.bahamut.com.tw\/avataruserpic\/t\/e\/tender9300\/tender9300_s.png"
+            },
+            {
+                "sn": 1739671,
+                "userid": "alen88620",
+                "lowerUserid": "alen88620",
+                "class": 1,
+                "level": 0,
+                "classTitle": "",
+                "contribute": 25,
+                "contributeMtime": "2024-11-26",
+                "contributeOver30Days": false,
+                "contributeMtimeHumanFormat": "18 \u5929\u524d",
+                "accurateContributeMtime": "2024-11-26 09:43:56",
+                "ctime": "2024-09-24 16:09:14",
+                "nick": "alen",
+                "avatar": "https:\/\/avatar2.bahamut.com.tw\/avataruserpic\/a\/l\/alen88620\/alen88620_s.png"
+            }
+        ]
+    }
+}
